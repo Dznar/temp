@@ -1,5 +1,6 @@
 <script lang="ts">
   import CVBuilder from './lib/CVBuilder.svelte';
+  import Footer from './lib/Footer.svelte';
 </script>
 
 <CVBuilder />
